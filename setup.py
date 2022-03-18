@@ -29,9 +29,7 @@ classifiers = [
          "Libre License, version 2.1 (CeCILL-2.1)"),
         "Topic :: Scientific/Engineering",
         "Programming Language :: Python :: 2.7",
-        "Programming Language :: Python :: 3.4",
-        "Programming Language :: Python :: 3.5",
-        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3",
         ]
 
 if __name__ == '__main__':
