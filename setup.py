@@ -47,7 +47,7 @@ if __name__ == '__main__':
         classifiers=classifiers,
         packages=find_packages(),
         install_requires=requires,
-        python_requires=">=3.6',
+        python_requires='>=3.6',
     )
 
 
