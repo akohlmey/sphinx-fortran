@@ -37,7 +37,7 @@
 #
 
 __version__ = '1.1.2'
-__date__ = "2022-03-18"
+__date__ = "2025-06-24"
 __author__ = 'Stephane Raynaud'
 __email__ = 'stephane.raynaud@gmail.com'
-__copyright__ = 'Copyright (c) 2010-2022 Actimar/IFREMER'
+__copyright__ = 'Copyright (c) 2010-2025 Actimar/IFREMER'
