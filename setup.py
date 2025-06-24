@@ -29,8 +29,6 @@ classifiers = [
         ("License :: OSI Approved :: CEA CNRS Inria Logiciel "
          "Libre License, version 2.1 (CeCILL-2.1)"),
         "Topic :: Scientific/Engineering",
-        "Programming Language :: Python :: 2.7",
-        "Programming Language :: Python :: 3",
         ]
 
 if __name__ == '__main__':
@@ -50,6 +48,7 @@ if __name__ == '__main__':
         classifiers=classifiers,
         packages=find_packages(),
         install_requires=requires,
+        python_requires='>=3.6',
     )
 
 
