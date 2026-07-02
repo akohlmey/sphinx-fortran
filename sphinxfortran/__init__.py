@@ -36,8 +36,8 @@
 # knowledge of the CeCILL license and that you accept its terms.
 #
 
-__version__ = '1.1.2'
-__date__ = "2025-06-24"
+__version__ = '1.1.3'
+__date__ = "2026-07-02"
 __author__ = 'Stephane Raynaud'
 __email__ = 'stephane.raynaud@gmail.com'
 __copyright__ = 'Copyright (c) 2010-2025 Actimar/IFREMER'
